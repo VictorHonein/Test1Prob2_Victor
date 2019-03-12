@@ -1,0 +1,16 @@
+Author: Victor Honein <vshonein@gmail.com>
+Date:   Tue Mar 12 09:59:02 2019 +0200
+
+    added some aliases
+
+commit d0270d284624bfb3b9c2d239a7898248e4a322a1
+Author: Victor Honein <vshonein@gmail.com>
+Date:   Thu Mar 7 10:29:54 2019 +0200
+
+    created firstolums of stats
+
+commit 383d975f77195d956c6d68b081acf5540cd2cdbf (origin/master)
+Author: Victor Honein <vshonein@gmail.com>
+Date:   Thu Mar 7 10:01:13 2019 +0200
+
+    version 0
