@@ -1,0 +1,9 @@
+
+alias sb="source ~/.bashrc"
+alias git-s="git status -s"
+
+
+
+
+
+
